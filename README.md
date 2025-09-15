@@ -174,9 +174,9 @@ plt.scatter(pontosX, pontosY, s=1)
 
 Como o programa permite uma resolução com quaisquer variáveis, iremos utilizar, como exemplo, os valores `r = 10 m/s`, `g = 10 m/s²`, `0 = 45` e `p = 75%`.
 
-a. Para `quiques = 1`, temos um alcance de `3.42 m`.
-b. Para `quiques = 50`, temos um alcance de `7.82 m`.
-c. Podemos definir um número de quiques arbitrariamente grande. Para `quiques = 100000`, temos um alcance de `7.82 m` (com um pouco mais de aproximação). Isso significa que, com 50 quiques, a bolinha já se movimenta pouco horizontalmente.
+1. Para `quiques = 1`, temos um alcance de `3.42 m`.
+2. Para `quiques = 50`, temos um alcance de `7.82 m`.
+3. Podemos definir um número de quiques arbitrariamente grande. Para `quiques = 100000`, temos um alcance de `7.82 m` (com um pouco mais de aproximação). Isso significa que, com 50 quiques, a bolinha já se movimenta pouco horizontalmente.
 
 ![Trajetória da bolinha](https://drive.google.com/uc?export=view&id=1dslxLnTf2a5ZwEG8mo0Wa82wP9wlSk5k)
 
